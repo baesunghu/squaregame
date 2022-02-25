@@ -1,0 +1,43 @@
+.flex-container{
+            display: flex;
+             justify-content: center;
+             height: 50px;
+
+        }
+.flex-item{
+    font-size:30px;
+    width: 100px;
+    height: 100px;
+    /* margin: 10px; */
+    margin-bottom: 0px;
+    
+}
+.introText{
+
+    text-align: center;
+    height: 150vh;
+                 background-image: linear-gradient(
+                 319deg,
+                 #ffec82 20%,
+                 #cdedfd 50%,
+                 #ffcfd2 100%
+             );
+    /* transform: rotate(-10deg); */
+}
+
+.texts{
+    font-size:100px;
+    
+    margin-bottom:140px;
+}
+.bottom{
+    background-color: black;
+    color: white;
+}
+div.asdf{
+    text-align: right;
+    font-size: 40px;
+    min-width: 50%;
+}
+a:link {  text-decoration: none;}
+a:visited {  text-decoration: none;}
